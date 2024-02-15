@@ -6,8 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class StartGame : MonoBehaviour
 {
-    [SerializeField] private Button startBtn;
-
     public void StartDemo()
     {
         SceneManager.LoadScene("MainScene");
