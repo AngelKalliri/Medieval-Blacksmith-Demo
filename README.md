@@ -1,4 +1,4 @@
-# Medieval Blacksmith Demo
+# Medieval Blacksmith Demo [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
 ## Overview
 The Medieval Blacksmith Demo is a Unity project designed to showcase fundamental Object-Oriented Programming (OOP) principles, specifically Abstraction, Inheritance, Polymorphism and Encapsulation. As part of the Unity Junior Programmer Pathway, this project aims to demonstrate the application of these principles in the context of creating a virtual blacksmith shop where various medieval weapons are sold.
